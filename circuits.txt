@@ -14,9 +14,15 @@ subtractor
 mux
 demux
 
+counter
+registers
 ok
 
 
 thank you
 
+done my changes
+
+
 final copy
+
