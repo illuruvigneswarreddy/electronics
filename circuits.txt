@@ -1,0 +1,7 @@
+and
+not 
+nor
+nand 
+nor
+
+basic gates
