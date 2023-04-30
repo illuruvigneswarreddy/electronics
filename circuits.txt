@@ -5,3 +5,13 @@ nand
 nor
 
 basic gates
+
+combinational circuits
+flipflops
+adder
+fulladder 
+subtractor 
+mux
+demux
+
+ok
